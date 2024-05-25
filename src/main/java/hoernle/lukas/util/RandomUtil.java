@@ -1,4 +1,4 @@
-package lincks.maximilian.util;
+package lukas.hoernle.util;
 
 import java.util.Random;
 
